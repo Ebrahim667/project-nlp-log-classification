@@ -1,0 +1,22 @@
+# Environment variables (NEVER commit!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large files)
+models/
+*.joblib
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+tempCodeRunnerFile.py
